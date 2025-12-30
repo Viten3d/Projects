@@ -1,6 +1,6 @@
 ## CodeGuessr Game (v0.1)
 
-## Author: Jeff [redacted]
+## Author: Viten3d
 ## Created: 26 Dec 2025
 ## Python: 3.11.2
 
